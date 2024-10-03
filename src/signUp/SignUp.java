@@ -47,7 +47,7 @@ public class SignUp {
 		//Close driver
 		driver.close();
 				
-		//Just a message
+		//Just a print message
 		System.out.println("Script executed successfully");
 	}
 
